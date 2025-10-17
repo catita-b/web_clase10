@@ -4,63 +4,63 @@
         "date": "Editorial",
         "photo": "img/p-tattoo.png",
         "description": "Álbum Colexionable",
-        "category": "2023 - 1"
+        "category": "2023-1"
     },
     {
         "title": "Moleta",
         "date": "Modelado en 3D",
         "photo": "img/p-moleta.png",
         "description": "Moledor de Cannabis",
-        "category": "2023 - 1"
+        "category": "2023-1"
     },
     {
         "title": "¡Yo soy Cheff Nestrlé Saludable!",
         "date": "Diseño de Experiencia",
         "photo": "img/p-chef.png",
         "description": "Colaboración con Nestlé",
-        "category": "2023 - 2"
+        "category": "2023-2"
     },
     {
         "title": "Comalú",
         "date": "Modelado en 3D",
         "photo": "img/p-perro.png",
         "description": "Producto para Mascotas",
-        "category": "2024 - 1"
+        "category": "2024-1"
     },
     {
         "title": "Edición Especial Pisco Doña Josefa",
         "date": "Packaging",
         "photo": "img/p-pisco.png",
         "description": "Experiancia de Maridaje",
-        "category": "2024 - 1"
+        "category": "2024-1"
     },
     {
         "title": "Kolumna Oczu",
         "date": "Industrial",
         "photo": "img/p-oczu.png",
         "description": "Mobiliario-iluminaria",
-        "category": "2024 - 2"
+        "category": "2024-2"
     },
     {
         "title": "OpenDay",
         "date": "Ilustración",
         "photo": "img/p-open.png",
         "description": "Afiche promocional",
-        "category": "2024 - 2"
+        "category": "2024-2"
     },
     {
         "title": "ViñaMar",
         "date": "Packaging",
         "photo": "img/p-caja.png",
         "description": "Caja de Marca",
-        "category": "2025 - 1"
+        "category": "2025-1"
     },
     {
         "title": "¡Marcianos en Apuros!",
         "date": "Ilustración",
         "photo": "img/p-marcianos1.png",
         "description": "Juego de Mesa",
-        "category": "2025 - 1"
+        "category": "2025-1"
     }
 ]
 
