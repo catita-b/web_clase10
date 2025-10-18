@@ -2,63 +2,63 @@
     {
         "title": "Mundo tattoo",
         "date": "Editorial",
-        "photo": "img/p-tattoo.webp",
+        "photo": "https://github.com/catita-b/web_clase10/tree/main/img/p-tattoo.webp",
         "description": "Álbum Colexionable",
         "category": "2023-1"
     },
     {
         "title": "Moleta",
         "date": "Modelado en 3D",
-        "photo": "img/p-moleta.webp",
+        "photo": "https://github.com/catita-b/web_clase10/tree/main/img/p-moleta.webp",
         "description": "Moledor de Cannabis",
         "category": "2023-1"
     },
     {
         "title": "¡Yo soy Cheff Nestrlé Saludable!",
         "date": "Diseño de Experiencia",
-        "photo": "img/p-chef.webp",
+        "photo": "https://github.com/catita-b/web_clase10/tree/main/img/p-chef.webp",
         "description": "Colaboración con Nestlé",
         "category": "2023-2"
     },
     {
         "title": "Comalú",
         "date": "Modelado en 3D",
-        "photo": "img/p-perro.webp",
+        "photo": "https://github.com/catita-b/web_clase10/tree/main/img/p-perro.webp",
         "description": "Producto para Mascotas",
         "category": "2024-1"
     },
     {
         "title": "Edición Especial Pisco Doña Josefa",
         "date": "Packaging",
-        "photo": "img/p-pisco.webp",
+        "photo": "https://github.com/catita-b/web_clase10/tree/main/img/p-pisco.webp",
         "description": "Experiancia de Maridaje",
         "category": "2024-1"
     },
     {
         "title": "Kolumna Oczu",
         "date": "Industrial",
-        "photo": "img/p-oczu.webp",
+        "photo": "https://github.com/catita-b/web_clase10/tree/main/img/p-oczu.webp",
         "description": "Mobiliario-iluminaria",
         "category": "2024-2"
     },
     {
         "title": "OpenDay",
         "date": "Ilustración",
-        "photo": "img/p-open.webp",
+        "photo": "https://github.com/catita-b/web_clase10/tree/main/img/p-open.webp",
         "description": "Afiche promocional",
         "category": "2024-2"
     },
     {
         "title": "ViñaMar",
         "date": "Packaging",
-        "photo": "img/p-caja.webp",
+        "photo": "https://github.com/catita-b/web_clase10/tree/main/img/p-caja.webp",
         "description": "Caja de Marca",
         "category": "2025-1"
     },
     {
         "title": "¡Marcianos en Apuros!",
         "date": "Ilustración",
-        "photo": "img/p-marcianos1.webp",
+        "photo": "https://github.com/catita-b/web_clase10/tree/main/img/p-marcianos1.webp",
         "description": "Juego de Mesa",
         "category": "2025-1"
     }
