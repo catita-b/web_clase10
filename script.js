@@ -27,4 +27,4 @@ async function datos(raw) {
     }
 }
 
-datos("https://raw.githubusercontent.com/catita-b/web_clase10/refs/heads/main/datos.json");
+datos("https://api.myjson.online/v1/records/eaa2194c-aac5-477e-9d84-21cbbd277403");
