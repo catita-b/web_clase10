@@ -1,10 +1,12 @@
 const portfolio = document.querySelector("#porotito");
 
-async function datos(url) {
+async function datos(raw) {
     try {
-        let consulta = await fetch(url);
+        let consulta = await fetch(raw);
         let resultado = await consulta.json();
         let trabajos = resultado.data;
+        console.log(trabajos);
+
         console.log(trabajos);
         trabajos.forEach((trabajo) => {
             portfolio.innerHTML += `<div class="col">
