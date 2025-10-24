@@ -2,7 +2,7 @@ const portfolio = document.querySelector("#porotito");
 
 async function datos(url) {
     try {
-        let consulta = await fetch(raw);
+        let consulta = await fetch(url);
         let resultado = await consulta.json();
         let trabajos = resultado.data;
         console.log(trabajos);
