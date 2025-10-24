@@ -6,18 +6,18 @@ async function datos(raw) {
         let resultado = await consulta.json();
         let trabajos = resultado.data;
         console.log(trabajos);
-        trabajos.forEach((v) => {
+        trabajos.forEach((trabajo) => {
             portfolio.innerHTML += `<div class="col">
                         <div class="card shadow-sm h-100">
-                            <img src="${v.photo}" class="card-img-top" alt="${v.title}">
+                            <img src="${trabajo.photo}" class="card-img-top" alt="${trabajo.title}">
                             <div class="card-body d-flex flex-column">
-                                <h5 class="card-title">${v.title}</h5>
-                                <p class=" flex-grow-1">${v.description}</p>
+                                <h5 class="card-title">${trabajo.title}</h5>
+                                <p class=" flex-grow-1">${trabajo.description}</p>
                                 <div class="d-flex justify-content-between align-items-center mt-auto">
                                     <div class="btn-group">
-                                        <button type="button" class="btn btn-sm btn-outline-secondary">${v.category}</button>
+                                        <button type="button" class="btn btn-sm btn-outline-secondary">${trabajo.category}</button>
                                     </div>
-                                    <span class="date-badge">${v.date}</span>
+                                    <span class="date-badge">${trabajo.date}</span>
                                 </div>
                             </div>
                         </div>
