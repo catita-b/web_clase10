@@ -1,4 +1,4 @@
-const portfolio = document.querySelector("#porotito");
+const portfolio = document.querySelector("#portafolio");
 
 async function datos(url) {
     try {
